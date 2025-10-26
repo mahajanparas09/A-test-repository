@@ -1,1 +1,2 @@
 This it a text file with name 'file1'
+This is the second time I am writing to this file
